@@ -1,0 +1,14 @@
+body {
+  padding-top: 5rem;
+}
+.navbar-dark .navbar-nav .nav-link{
+  color: #ffffff;
+  font-size:medium;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: #dddcdc;
+  font-size: medium;
+}
+.bg-primary {
+  background: linear-gradient(to right, #250dfd , #0dfdfd);
+}
